@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opt_signIn"
+        android:title="Sign In"
+        />
+    <item
+        android:id="@+id/opt_wallet"
+        android:title="Wallet"
+        />
+    <item
+        android:id="@+id/opt_cart"
+        android:title="Cart"
+        />
+    <item
+        android:id="@+id/opt_setting"
+        android:title="Setting"
+        />
+
+</menu>
